@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AnthonyMorenoSanchez/AnthonyMorenoSanchez/main/assets/neuroscience-banner.png"
+    src="neuroscience-banner.png"
     alt="Abstract neuron, neural data, and microscopy channels"
     width="100%"
   />
