@@ -26,7 +26,7 @@
 
 I am a Neuroscience PhD candidate at Drexel University College of Medicine developing reproducible tools for connectomics, neural-circuit modeling, and imaging analysis using Python, MATLAB, and R.
 
-## Selected Research Software
+## Research and Software Development
 
 <table>
   <tr>
@@ -61,7 +61,7 @@ I am a Neuroscience PhD candidate at Drexel University College of Medicine devel
     <td width="33%" valign="top">
       <h3>Napari UI</h3>
       <p>
-        Python interface for multi-channel confocal-image visualization, masking, colocalization, cell counting, and intensity analysis.
+        Python interface built on the Napari software interface for multi-channel confocal-image visualization, masking, colocalization, cell counting, and intensity analysis.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -75,31 +75,4 @@ I am a Neuroscience PhD candidate at Drexel University College of Medicine devel
   </tr>
 </table>
 
-## Featured Projects
 
-<p>
-  <a href="https://github.com/AusbornLab/VPN-DN-synapse-normalization">
-    <img
-      width="390"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AusbornLab&repo=VPN-DN-synapse-normalization&theme=transparent&hide_border=true"
-      alt="VPN-DN Synapse Normalization repository"
-    />
-  </a>
-  <a href="https://github.com/AusbornLab/Napari_UI">
-    <img
-      width="390"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AusbornLab&repo=Napari_UI&theme=transparent&hide_border=true"
-      alt="Napari UI repository"
-    />
-  </a>
-</p>
-
-## Research Workflow
-
-```mermaid
-flowchart LR
-    A[Connectome, imaging, and electrophysiology data] --> B[Data processing]
-    B --> C[Neuron morphology and synapse mapping]
-    C --> D[Biophysical modeling and simulation]
-    D --> E[Statistical analysis and visualization]
-    E --> F[Reproducible research software]
