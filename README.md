@@ -24,7 +24,11 @@
   </a>
 </p>
 
-I am a Neuroscience PhD candidate at Drexel University College of Medicine developing reproducible tools for connectomics, neural-circuit modeling, and imaging analysis using Python, MATLAB, and R.
+I am a Neuroscience PhD candidate at Drexel University College of Medicine building reproducible research software for biological data analysis. My work combines computational neuroscience, data engineering, statistical modeling, and machine learning using Python, MATLAB, and R.
+
+I develop tools that make complex biological datasets more interpretable and reproducible, from neural-circuit and imaging workflows to sparse single-cell RNA-seq analysis. My current software project, BioML Workbench, integrates PBMC68k data loading, label alignment, QC, dimensionality reduction, clustering, cohort comparison, exploratory differential expression, and held-out machine-learning evaluation.
+
+I am interested in industry and research roles in computational biology, bioinformatics, scientific software, and applied machine learning.
 
 ## Research and Software Development
 
