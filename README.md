@@ -9,7 +9,7 @@
 <h1 align="center">Anthony Moreno-Sanchez</h1>
 
 <p align="center">
-  Connectomics · Biophysical Modeling · Research Software · Imaging Analysis
+  Computational Neuroscience · Computational Biology · Research Software · Machine Learning
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ I am a Neuroscience PhD candidate at Drexel University College of Medicine devel
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>VPN-DN Synapse Normalization</h3>
       <p>
         Connectome-based modeling pipeline for synapse mapping, receptive-field analysis, electrophysiology processing, and neuron simulations.
@@ -44,7 +44,7 @@ I am a Neuroscience PhD candidate at Drexel University College of Medicine devel
         <a href="https://github.com/AusbornLab/VPN-DN-synapse-normalization">View repository →</a>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>KC NaChBac Model</h3>
       <p>
         Biophysical workflow integrating electrophysiology, neuronal morphology, passive-property fitting, and sodium,and potassium channel simulations.
@@ -57,7 +57,7 @@ I am a Neuroscience PhD candidate at Drexel University College of Medicine devel
         <a href="https://github.com/AusbornLab/KC_NaChBac_Model">View repository →</a>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Napari UI</h3>
       <p>
         Python interface built on the Napari software interface for multi-channel confocal-image visualization, masking, colocalization, cell counting, and intensity analysis.
@@ -69,6 +69,19 @@ I am a Neuroscience PhD candidate at Drexel University College of Medicine devel
       </p>
       <p>
         <a href="https://github.com/AusbornLab/Napari_UI">View repository →</a>
+      </p>
+    </td>
+     <td width="25%" valign="top">
+      <h3>BioML Workbench</h3>
+      <p>
+       Interactive single-cell RNA-seq workbench combining sparse biological data workflows, cohort comparison, and held-out machine-learning evaluation.
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Scanpy-4C72B0?style=flat-square" alt="Scanpy" />
+        <img src="https://img.shields.io/badge/Machine_Learning-5B8C85?style=flat-square" alt="Machine Learning" />
+      </p>
+      <p>
+        <a href="https://github.com/AnthonyMorenoSanchez/BioML-Workbench">View repository →</a>
       </p>
     </td>
   </tr>
